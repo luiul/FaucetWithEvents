@@ -1,4 +1,4 @@
-# revised-faucet-contract
+# Revised Faucet Contract
 Revised faucet Smart Contract running on Ethereum. 
 
 # Thesis Title
